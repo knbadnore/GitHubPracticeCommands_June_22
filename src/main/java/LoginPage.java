@@ -5,6 +5,8 @@ public class LoginPage {
 	
 public static void login() {
 	System.out.println("Do Login");
+	
+	System.out.println("Username Updated");
 }
 
 }
